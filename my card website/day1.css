@@ -1,0 +1,241 @@
+.container{
+    background: #583ebc;
+    border-radius: 50px;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    z-index: 4;
+    margin: 1px;
+    padding: 5px;
+}
+.logo{
+    font-weight: bolder;
+    color: rgb(233, 15, 124);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.logo:hover{
+    color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hovering{
+    color: white;
+    text-decoration: none;
+} 
+.hovering:hover{
+    background-color: rgb(194, 194, 248);
+    border: cornflowerblue;
+    border-bottom: solid rgb(224, 153, 153);
+    font-style: italic;
+}
+.bluish{
+    background-color: rgb(231, 239, 255);
+    margin-left: 22em;
+    padding: 10px;
+    font-weight: bolder;
+}
+ul,li{
+    display: inline;
+    gap: 50px;
+}
+.menu{
+    display: flex;
+    margin-left: 15em;
+    gap: 50px;
+    color: lightcyan;
+}
+.logo{
+    padding: 20px;color: lightcoral;
+    background-color: #fff;
+    border-radius: 40px;
+}
+.image1{
+   width: 35%; 
+   height: 70%;
+   justify-content: center;
+   padding-left: 850px;
+   position: absolute;
+   border: solid black 8px;
+}
+.experience{
+    display:flex;
+    background: linear-gradient(45deg,#583ebc,#583ebc);
+    border-radius:30px;
+    margin:300px 2px;
+    color:#fff;
+}
+.icons2{
+    display: flex;
+    gap: 10em;
+    margin-top: 4em;
+}
+.bulb{
+    height: 7em;
+    width: 8em;
+    margin-left: 40px;
+}
+.clock{
+    height: 7em;
+    width: 7em;
+}
+.thumb{
+    height: 7em;
+    width: 7em;
+}
+.client{
+    height: 7em;
+    width: 7em;
+}
+.support{
+    height: 7em;
+    width: 7em;
+ margin-left: -50px;
+}
+.section5{
+    margin-top: -17em;
+}
+.computer{
+    margin-left: 60%;
+    margin-top: -40%;
+    height: 22em;
+}
+.webdesign{
+    width: 18em;
+    height: 10em;
+}
+.graphicdesign{
+    width: 18em;
+    height: 10em;
+}
+.branding{
+    width: 18em;
+    height: 10em;
+}
+.marketing{
+    width: 18em;
+    height: 10em;
+}
+.boxes{
+    padding: 2em;
+}
+.images{
+    height: 20em;
+    width: 20em;
+}
+.icons3{
+    display: flex;
+    gap: 4em;
+    margin-left: 7em;
+    margin-top: 2em;
+    
+}
+.section9{
+    background-color: rgba(174, 245, 235, 0.795);
+    padding: 2em;
+}
+.picture4{
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 100px;
+}
+.para3{
+    margin-top: -90px;
+    margin-left: 120px;
+}
+.images-1{
+    margin-top: 50px;
+}
+.section10{
+    padding: 1em;
+}
+.section11{
+background-color: rgb(127, 170, 177);
+}
+.details{
+    background-color: rgb(40, 184, 184);
+    height: 20em;
+} 
+.ys{
+    height: 12em;
+    width: 17em;
+    margin-top: -1em;
+}
+.paragraph-1{
+    color: white;
+    margin-top: -3em;
+    margin-left: 7em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.servicess{
+    margin-top: -12em;
+    margin-left: 475px;
+    color: white;
+}
+.servicess-3{
+    margin-top: -9em;
+    margin-left:55em ;
+    color: white;
+}
+.servicess-2{
+    margin-top: -9em;
+    margin-left: 760px;
+    color: white;
+}
+.services-1{
+    display: flex; 
+    color: white;
+    margin-left: 30em;
+}
+.services-2{
+    margin-left: 48em;
+    display: flex;
+    color: white;
+}
+.contacts{
+    display: flex;
+    margin-left:64em;
+    height: 20px;
+}
+.contacttext{
+    color: white;
+    margin-left: 1055px;
+    margin-top: -20px;
+}
+.person5{
+    border: solid blue;
+}
+.contacts2{
+    margin-left: 65em;
+    height: 20px;
+}
+.contacts3{
+height: 20px;
+}
+.contacts4{
+    height: 20px;
+}
+.contacts5{
+    height: 20px;
+}
+.servicess-4{
+    color: white;
+    margin-left: 1030px;
+}
+.mail{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 7em;
+    margin-top: 3em;
+}
+.text1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.star{
+    height: 20px;
+    margin-left: 120px;
+    margin-top: -20px;
+}
